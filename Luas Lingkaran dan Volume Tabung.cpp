@@ -18,7 +18,7 @@ int main() {
    lL = phi * r * r;
 
    cout << endl;
-   cout << "Luas Lingkaran   : " << lL << endl;
-   cout << "Luas Tabung	    : " << lT << endl;
-   cout << "Volume Tabung	  : " << vT << endl;
+   cout << "Luas Lingkaran	: " << lL << endl;
+   cout << "Luas Tabung	: " << lT << endl;
+   cout << "Volume Tabung	: " << vT << endl;
 }
